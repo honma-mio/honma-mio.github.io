@@ -240,7 +240,7 @@ body {
 }
 .works_menu {
   display: flex;
-  margin-top: 50px;
+  /**margin-top: 50px;**/
   font-size: 2rem;
 }
 .works_menu ul li {
